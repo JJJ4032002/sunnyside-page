@@ -318,6 +318,8 @@ p {
     display: block;
     position: unset;
     background-color: transparent;
+    transition: none;
+    transform: scaleY(1);
   }
   .desktop-links ul {
     display: flex;
