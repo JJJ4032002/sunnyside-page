@@ -316,6 +316,8 @@ p {
   }
   .desktop-links {
     display: block;
+    position: unset;
+    background-color: transparent;
   }
   .desktop-links ul {
     display: flex;
